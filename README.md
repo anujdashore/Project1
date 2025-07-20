@@ -69,8 +69,11 @@ End-to-end solution for creators/startups
 📈 10x Higher Engagement
 
 📂 Project Structure
+
 ├── index.html            # Main webpage (HTML + CSS + JS embedded)
+
 ├── /assets               # (Images, icons, etc.)
+
 ├── README.md             # You are here!
 
 💬 Testimonials
@@ -78,7 +81,7 @@ End-to-end solution for creators/startups
 — Rajesh Kumar, YouTube Tech Reviewer
 
 “Studio-quality reels at a fraction of the price!”
-— Priya Sharma, Small Business Owner
+— Vineet Sharma, Small Business Owner
 
 “Script writing saved me hours per week.”
 — Vikram Patel, Finance Content Creator
